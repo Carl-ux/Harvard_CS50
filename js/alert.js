@@ -1,0 +1,1 @@
+alert("Display a prompt using an external script");
